@@ -1,0 +1,79 @@
+.headerdown {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem;
+    margin-top: 15px;
+}
+
+.img1{
+    height: 150px;
+}
+.img2{
+    height: 150px;
+}
+
+.img3{
+    height: 150px;
+}
+.img4{
+    height: 150px;
+}
+.img5{
+    height: 150px;
+}
+.img6{
+    height: 150px;
+}
+.img7{
+    height: 150px;
+}
+.img8{
+    height: 150px;
+}
+.headerdown h3 {
+    font-weight: lighter;
+    font-size: 18px;
+    line-height: 5px;
+    
+}
+.img1 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img2 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img3 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img4 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img5 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img6 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img7 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.img8 h3 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

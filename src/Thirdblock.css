@@ -1,0 +1,40 @@
+.thirdblock {
+    margin-top: 60px;
+}
+.thirdblock h2 {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin-left: 135px;
+
+}
+.headline3 {
+    margin-top: 80px;
+    font-size: 15px;
+
+}
+
+.thirdblock1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 30px;
+}
+.block9 {
+    height: 320px;
+    width: 300px;
+}
+.block10 {
+    height: 320px;
+    width: 300px;
+}
+.block11 {
+    height: 320px;
+    width: 300px;
+}
+.block12 {
+    height: 320px;
+    width: 300px;
+}

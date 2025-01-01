@@ -1,0 +1,40 @@
+.secblock {
+    margin-top: 60px;
+}
+.secblock h2 {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin-left: 135px;
+
+}
+.headline2 {
+    margin-top: 80px;
+    font-size: 15px;
+
+}
+
+.secblock1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 30px;
+}
+.block5 {
+    height: 320px;
+    width: 300px;
+}
+.block6 {
+    height: 320px;
+    width: 300px;
+}
+.block7 {
+    height: 320px;
+    width: 300px;
+}
+.block8 {
+    height: 320px;
+    width: 300px;
+}

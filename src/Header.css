@@ -1,0 +1,58 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.header {
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4rem;
+}
+
+.symbol  {
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.sportname {
+    line-height: 0.5px;
+    align-items: center;
+}
+.header-right {
+    display: flex;
+    gap: 40px;
+    line-height: 1px;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.header-right h5 {
+    margin-top: 15px;
+    margin-left: -5px;
+}
+.support i {
+    margin-right: 10px;
+}
+.placeholder {
+    margin-top: -5px;
+}
+.placeholder input {
+    width: 600px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(237, 235, 235);
+    font-size: 15px;
+    
+}

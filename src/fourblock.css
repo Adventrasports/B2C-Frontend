@@ -1,0 +1,37 @@
+.headline1 h2 {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin-left: 135px;
+
+}
+.headline1 {
+    margin-top: 80px;
+    font-size: 15px;
+
+}
+
+.fourblock1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 30px;
+}
+.block1 {
+    height: 320px;
+    width: 300px;
+}
+.block2 {
+    height: 320px;
+    width: 300px;
+}
+.block3 {
+    height: 320px;
+    width: 300px;
+}
+.block4 {
+    height: 320px;
+    width: 300px;
+}
