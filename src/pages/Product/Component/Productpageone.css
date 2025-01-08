@@ -1,0 +1,60 @@
+.productone {
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+
+.block1 {
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    line-height: 5px;
+    
+}
+.block2 {
+    margin-top: 120px;
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    line-height: 5px;
+}
+.block3 {
+    margin-top: 120px;
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    line-height: 5px;
+}
+
+.blockpic1 {
+    border: 1px solid black;
+    height: 422px;
+    width: 422px;
+}
+.blockpic2  {
+    border: 1px solid black;
+    height: 422px;
+    width: 422px;
+}
+.blockpic3 {
+    border: 1px solid black;
+    height: 422px;
+    width: 422px;
+}
+.blockpic4 {
+    border: 1px solid black;
+    height: 422px;
+    width: 422px;
+}
+.blockpic5 {
+    border: 1px solid black;
+    height: 422px;
+    width: 422px;
+}
+.blockpic6 {
+    border: 1px solid black;
+    height: 422px;
+    width: 422px;
+}

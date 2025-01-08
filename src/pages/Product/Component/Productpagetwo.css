@@ -1,0 +1,178 @@
+.producttwo {
+    width: 100%;
+    margin-top: 50PX;
+}
+.top-headlin h2 {
+    font-weight: 1000;
+}
+.top-headlin h3 {
+    font-weight: 100;
+}
+
+.rating {
+    width: 100px;
+    font-size: 15px;
+    border: 1px solid rgb(173, 172, 172);
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+    line-height: 1px;
+    color: blue;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.mrp span {
+    font-weight: lighter;
+    font-size: 18px;
+    
+}
+.mrp {
+    margin-top: -10px;
+}
+.mrp h5 {
+    margin-top: -10px;
+}
+.colour-ops {
+    margin-top: -10px;
+}
+
+.ADD-BOTTON {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    justify-content: center;
+    margin-top: 20PX;
+}
+.ADD-CART {
+    border: 1px solid black;
+    height: 50px;
+    width: 280px;
+    background-color: rgb(48, 48, 255);
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    line-height: 50px;
+}
+.ADD-WISH{
+    border: 1px solid black;
+    height: 50px;
+    width: 280px;
+    color:black;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    line-height: 50px;
+}
+
+.SIZEBLOCK {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+    margin-top: -10px;
+}
+.twoXL {
+    height: 50px;
+    width: 60px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.threeXL {
+    height: 50px;
+    width: 60px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.L {
+    height: 50px;
+    width: 60px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.M {
+    height: 50px;
+    width: 60px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.S {
+    height: 50px;
+    width: 60px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.XL {
+    height: 50px;
+    width: 60px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.colourops {
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.OPS1 {
+    border: 2px solid rgb(207, 205, 205);
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+    
+}
+.OPS2 {
+    border: 2px solid rgb(207, 205, 205);
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+}
+.OPS3 {
+    border: 2px solid rgb(207, 205, 205);
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+}
+.OPS4 {
+    border: 2px solid rgb(207, 205, 205);
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+}
+.OPS5 {
+    border: 2px solid rgb(207, 205, 205);
+    padding: 5px;
+    height: 80px;
+    width: 80px;
+}
+
+.OP1 {
+    height: 80px;
+    width: 80px;
+}
+.OP2 {
+    height: 80px;
+    width: 80px;
+}
+.OP3 {
+    height: 80px;
+    width: 80px;
+}
+.OP4 {
+    height: 80px;
+    width: 80px;
+}
+.OP5 {
+    height: 80px;
+    width: 80px;
+}
+
+
+
+
+.FIVPICOPTIONS {
+    display: flex;
+    width: 100%;
+    
+}
