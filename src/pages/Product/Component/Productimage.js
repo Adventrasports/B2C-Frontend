@@ -2,6 +2,7 @@ import React from "react";
 import Productpageone from "./productpageone";
 import Productpagetwo from "./productpagetwo";
 import './Productpage.css'
+import Fiveheadlin from "./fiveheadlin";
 
 function productimage() {
     return(
@@ -10,6 +11,7 @@ function productimage() {
       <Productpageone/>
       <Productpagetwo/>
       </div>
+      <Fiveheadlin/>
         </>
     )
 }

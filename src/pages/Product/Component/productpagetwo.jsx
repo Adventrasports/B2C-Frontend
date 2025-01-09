@@ -22,15 +22,16 @@ function ProductPageTwo() {
     <>
       <div className="producttwo">
         <div className="top-headlin">
-           <h3>FORCLAZ</h3>
-           <h2>Men Puffer Jacket for Trekking - MT100 -5°C Black</h2>
+           <h3>KIPRUN</h3>
+           <h2>MEN'S KIPRUN KS500 2 RUNNING SHOES - </h2>
+           <h2>BLACK/YELLOW</h2>
         </div>
         <div className="rating">
-          <h3>4.5 | 7.7k</h3>
+          <h3> <i class='bx bxs-star-half' ></i> 4.4 | 257</h3>
         </div>
         <div className="mrp">
-          <h2>$ 2,999 <span>MRP: $3699</span></h2>
-          <h5>or pay only ₹ 999 now, rest later via Axio Pay Later</h5>
+          <h2>₹ 6,999 MRP:<span>₹ 9,099</span></h2>
+          <h5>or pay only ₹ 2333 now, rest later via Axio Pay Later</h5>
         </div>
         <div className="colour-ops">
             <h3>COLOUR OPTIONS</h3>
@@ -58,12 +59,12 @@ function ProductPageTwo() {
         </div>
 
         <div className="SIZEBLOCK">
-          <div className="twoXL" onClick={() => handleSizeChange('2XL')}>2XL</div>
-          <div className="threeXL" onClick={() => handleSizeChange('3XL')}>3XL</div>
-          <div className="L" onClick={() => handleSizeChange('L')}>L</div>
-          <div className="M" onClick={() => handleSizeChange('M')}>M</div>
-          <div className="S" onClick={() => handleSizeChange('S')}>S</div>
-          <div className="XL" onClick={() => handleSizeChange('XL')}>XL</div>
+          <div className="twoXL" onClick={() => handleSizeChange('2XL')}>7</div>
+          <div className="threeXL" onClick={() => handleSizeChange('3XL')}>8</div>
+          <div className="L" onClick={() => handleSizeChange('L')}>8.5</div>
+          <div className="M" onClick={() => handleSizeChange('M')}>9.5</div>
+          <div className="S" onClick={() => handleSizeChange('S')}>10.5</div>
+          <div className="XL" onClick={() => handleSizeChange('XL')}>11</div>
         </div>
 
         <div className="ADD-BOTTON">
@@ -74,6 +75,53 @@ function ProductPageTwo() {
             ADD TO WISHLIST
           </div>
         </div>
+        <div className="rating1">
+          <h3> <i class='bx bxs-star-half' ></i> 2 YEARS WARRANTY*</h3>
+        </div>
+        <div className="DELIVERY-LINE">
+          <h2>DELIVERY & SERVICES</h2>
+        </div>
+        <div className="DELIVERY-CHANGE">
+          <div className="NO">
+            560002 <i class='bx bx-right-top-arrow-circle'></i>
+          </div>
+          <div className="CHANGE">
+            Change
+          </div>
+        </div>
+        <div className="Home-delivery">
+          <div className="homeleft">
+            <div className="symblvehical1">
+            <i class='bx bx-car'></i>
+            </div>
+            <div className="symbldesc1">
+            Home Delivery by 11th Jan 2025
+            Order within <span>17hrs 8mins</span></div>
+          </div>
+          <div className="homeright">
+             <div className="symblvehical">
+             <i class='bx bx-store-alt'></i>
+             </div>
+            <div className="symbldesc">
+              FREE pickup in Store Available
+              <span>View nearest stores</span>
+            </div>
+          </div>
+          
+        </div>
+        <div className="pay-delivery">
+            <div className="symblvehical">
+            <i class='bx bx-rupee'></i>
+            </div>
+            <div className="pay-desc">
+              Pay on Delivery available *
+        </div>
+
+
+
+
+        </div>
+
       </div>
     </>
   );

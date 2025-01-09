@@ -1,0 +1,21 @@
+.FIVEHEADLINE {
+    margin-top: 200PX;
+   
+}
+
+.Threeheadlin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.twoheadline {
+    display: flex;
+    gap: 200px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 115px;
+    margin-top: 50px;
+}
