@@ -1,5 +1,5 @@
 import React from "react";
-import Productimage from './Component/Productimage';
+import Productimage from './Component/Lastpage/Productimage';
 function productpage() {
     return(
         <>
