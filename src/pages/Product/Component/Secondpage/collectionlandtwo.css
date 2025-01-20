@@ -3,10 +3,7 @@
     align-items: center;
     justify-content: center;
     gap: 2.5rem;
-    margin-top: 10px;
-    font-family: 'Calibri';
-    font-weight: 600;
-
+    margin-top: 15px;
 }
 
 .img1{
@@ -34,56 +31,49 @@
 .img8{
     height: 150px;
 }
-.headerdown h4 {
-    font-weight: 500;
+.headerdown h3 {
+    font-weight: lighter;
+    font-size: 18px;
     line-height: 5px;
     
 }
-.imgone h4 {
+.img1 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgtwo h4 {
+.img2 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgthree h4 {
+.img3 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgfour h4 {
+.img4 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgfive h4 {
+.img5 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgsix h4 {
+.img6 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgseven h4 {
+.img7 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }
-.imgeight h4 {
+.img8 h3 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 17px;
 }

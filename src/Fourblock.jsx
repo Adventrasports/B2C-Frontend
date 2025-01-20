@@ -12,18 +12,18 @@ function fourblock() {
         <div className="headline1">
             <h2>BUDGET SPORT SHOPPING</h2>
         </div>
-        <div className="fourblock1">
+        <div className="fourblock">
             <div className="blockone"> 
                 <img className="block1" src={block1} alt="block1" ></img>
             </div>
-            <div className="blocktwo">
-            <img className="block2" src={block2} alt="block2" ></img>
+            <div className="blockone"> 
+                <img className="block1" src={block2} alt="block1" ></img>
             </div>
-            <div className="blocktree">
-            <img className="block3" src={block3} alt="block3" ></img>
+            <div className="blockone"> 
+                <img className="block1" src={block3} alt="block1" ></img>
             </div>
-            <div className="blockfour">
-            <img className="block4" src={block4} alt="block4" ></img>
+            <div className="blockone"> 
+                <img className="block1" src={block4} alt="block1" ></img>
             </div>
         </div>
         </>

@@ -2,26 +2,52 @@
     margin: 0px;
     padding: 0px;
     width: 100%;
+    
 }
 
 .header {
-   
+    margin: -10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: 'Calibri';
+    font-weight: lighter;
+    width: 100wh;
+    height: 100px;
+
+    
+}
+.location {
+    text-align: center;
+    font-size: 18px;
+}
+.location h4 {
+    color: blue;
 }
 
 .header-left {
+    margin: 0px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: 17px;
     gap: 4rem;
+}
+.sportname p {
+   margin-left: -55px;
+   font-size: 18px;
+   font-weight:540;
+   align-items: center;
+   justify-content: space-between;
+
 }
 
 .symbol  {
-    font-size: 50px;
+    margin-left: 10px;
+    font-size: 40px;
     align-items: center;
     justify-content: center;
+    margin-top: 5px;
 }
 .sportname {
     line-height: 0.5px;
@@ -33,13 +59,17 @@
     line-height: 1px;
     align-items: center;
     justify-content: space-between;
-    margin-right: 40px;
+    margin-right: 10px;
     padding-top: 20px;
     font-size: 20px;
+    
 }
 .header-right h5 {
     margin-top: 15px;
     margin-left: -5px;
+    font-weight: 540;
+    font-size: 15px;
+    font-family: '_Roboto_Condensed_0b47e5, __Roboto_Condensed_Fallback_0b47e5';
 }
 .support i {
     margin-right: 10px;
@@ -55,4 +85,15 @@
     background-color: rgb(237, 235, 235);
     font-size: 15px;
     
+}
+.logo {
+    align-items: center;
+    justify-content: center;
+    margin-left: -45px;
+    margin-top: -10px;
+}
+
+.symbl {
+    height: 55px;
+    width: 180px;
 }

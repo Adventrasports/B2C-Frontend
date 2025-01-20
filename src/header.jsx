@@ -1,5 +1,6 @@
 import React from "react";
 import './Header.css';
+import websymbl from './assets/websymbl.png';
 
 function header() {
 return (
@@ -7,10 +8,12 @@ return (
     <div className="header-left">
         <div className="symbol"><i class='bx bx-menu'></i></div>
         <div className="sportname">
-            <h5>ALL </h5>
-            <h5>SPORTS</h5>
+            <p>ALL </p>
+            <p>SPORTS</p>
             </div>
-        <div className="logo"><h3>DECATHLON</h3></div>
+        <div className="logo">
+            <img className="symbl " src={websymbl } alt="img5" ></img>
+        </div>
     </div>
     <div className="placeholder">
     <input placeholder='          Search for ...'></input>
@@ -20,8 +23,8 @@ return (
     </div>
     <div className="header-right">
         <div className="location">
-            <h5>Delivery </h5>
-            <h5>location</h5>
+            <h5>Delivery location</h5>
+            <h4>560002 <span>Change</span></h4>
             </div>
         <div className="signname">
             <i class='bx bx-user' ></i>

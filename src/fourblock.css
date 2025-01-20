@@ -8,30 +8,43 @@
 .headline1 {
     margin-top: 80px;
     font-size: 15px;
+    font-family: 'calibri';
 
 }
 
-.fourblock1 {
+.fourblock {
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     width: 100%;
     gap: 1rem;
-    margin-top: 30px;
 }
 .block1 {
     height: 320px;
     width: 300px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 .block2 {
     height: 320px;
     width: 300px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 .block3 {
     height: 320px;
     width: 300px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 .block4 {
     height: 320px;
     width: 300px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }

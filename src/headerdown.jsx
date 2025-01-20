@@ -12,40 +12,41 @@ import img8 from './assets/img8.png';
 function headerdown() {
 return (
     <div className="headerdown">
-    <div className="img1">
-        <img className="img1 " src={img1 } alt="img1 " ></img>
-        <h3>Men</h3>
+    <div className="imgone">
+    <img className="img5 " src={img5 } alt="img5" ></img>
+        <h4>Winter</h4>
+        <h4>Collection</h4>
+        
     </div>
-    <div className="img2">
+    <div className="imgfive">
+    <img className="img1 " src={img1 } alt="img1 " ></img>
+    <h4>Men</h4>
+    </div>
+    <div className="imgtwo">
         <img className="img2 " src={img2 } alt="img2 " ></img>
-        <h3>Women</h3>
+        <h4>Women</h4>
     </div>
-    <div className="img3">
+    <div className="imgthree">
         <img className="img3 " src={img3 } alt="img3 " ></img>
-        <h3>Kids</h3>
+        <h4>Kids</h4>
     </div>
-    <div className="img4">
+    <div className="imgfour">
         <img className="img4 " src={img4 } alt="img4" ></img>
-        <h3>Shoes</h3>
+        <h4>Shoes</h4>
     </div>
-    <div className="img5">
-        <img className="img5 " src={img5 } alt="img5" ></img>
-        <h3>Winter</h3>
-        <h3>Collection</h3>
-    </div>
-    <div className="img6">
+    <div className="imgsix">
         <img className="img6" src={img6 } alt="img6 " ></img>
-        <h3>Equiment &</h3>
-        <h3>Cycles</h3>
+        <h4>Equiment &</h4>
+        <h4>Cycles</h4>
     </div>
-    <div className="img7">
+    <div className="imgseven">
         <img className="img7 " src={img7 } alt="img7 " ></img>
-        <h3>Bags & Backpacks</h3>
+        <h4>Bags & Backpacks</h4>
     </div>
-    <div className="img8">
+    <div className="imgeight">
         <img className="img8" src={img8} alt="img8 " ></img>
-        <h3>Sports</h3>
-        <h3>Accessori</h3>
+        <h4>Sports</h4>
+        <h4>Accessori</h4>
     </div>
     </div>
 )}

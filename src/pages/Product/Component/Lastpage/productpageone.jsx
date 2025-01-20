@@ -9,7 +9,7 @@ import blockpic6 from './productphotos/blockpic6.png';
 
 function productpageone() {
     return(<>
-    <div className="productone">
+    <div className="Productone">
         <div className="block1">
             <div className="picone">
                 <img className="blockpic1 " src={blockpic1 } alt="blockpic1 " ></img>

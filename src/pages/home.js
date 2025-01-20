@@ -14,7 +14,6 @@ import Thirdblock from '../thirdblock.jsx';
 function home() {
   return (
     <div className="App">
-      \
       <Headerdown/>
       <Landscappic/>
       <Fourblock/>

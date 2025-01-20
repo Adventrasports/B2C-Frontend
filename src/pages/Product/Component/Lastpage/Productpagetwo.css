@@ -1,7 +1,19 @@
-.producttwo {
-    width: 100%;
-    margin-top: 50PX;
+.Producttwo {
+    width: 38%;
+    align-items: center;
+    justify-content: center;
+    margin-top: -20px;
+    margin-left: 0px;
+    font-family: 'calibri';
+    font-size: 17px;
+    
+    
+    
 }
+.top-headlin {
+    line-height: 10px;
+}
+
 .top-headlin h2 {
     font-weight: 1000;
 }
@@ -45,16 +57,19 @@
 }
 .mrp h5 {
     margin-top: -10px;
+    font-weight: 500;
+    font-family: 'calibri';
 }
 .colour-ops {
-    margin-top: -10px;
+    margin-top: 20px;
+    font-family: 'calibri';
+    font-size: 15px;
 }
 
 .ADD-BOTTON {
     display: flex;
     align-items: center;
     gap: 3rem;
-    justify-content: center;
     margin-top: 20PX;
 }
 .ADD-CART {
@@ -128,60 +143,61 @@
     width: 100%;
     display: flex;
     gap: 1rem;
+    margin-top: -10px;
     
 }
 
 .OPS1 {
     border: 2px solid rgb(207, 205, 205);
     padding: 5px;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
     
 }
 .OPS2 {
     border: 2px solid rgb(207, 205, 205);
     padding: 5px;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OPS3 {
     border: 2px solid rgb(207, 205, 205);
     padding: 5px;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OPS4 {
     border: 2px solid rgb(207, 205, 205);
     padding: 5px;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OPS5 {
     border: 2px solid rgb(207, 205, 205);
     padding: 5px;
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 
 .OP1 {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OP2 {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OP3 {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OP4 {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 .OP5 {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 
 

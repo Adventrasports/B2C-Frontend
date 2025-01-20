@@ -7,8 +7,8 @@ import OPS4 from './productphotos/OPS4.png';
 import OPS5 from './productphotos/OPS5.png';
 
 function ProductPageTwo() {
-  const [selectedColor, setSelectedColor] = useState(OPS1);
-  const [selectedSize, setSelectedSize] = useState("");
+  const [, setSelectedColor] = useState(OPS1);
+  const [, setSelectedSize] = useState("");
 
   const handleColorChange = (color) => {
     setSelectedColor(color);
@@ -20,7 +20,7 @@ function ProductPageTwo() {
 
   return (
     <>
-      <div className="producttwo">
+      <div className="Producttwo">
         <div className="top-headlin">
            <h3>KIPRUN</h3>
            <h2>MEN'S KIPRUN KS500 2 RUNNING SHOES - </h2>
@@ -31,7 +31,7 @@ function ProductPageTwo() {
         </div>
         <div className="mrp">
           <h2>₹ 6,999 MRP:<span>₹ 9,099</span></h2>
-          <h5>or pay only ₹ 2333 now, rest later via Axio Pay Later</h5>
+          <h5>or pay only <b>₹ 2333</b> now, rest later via <b>Axio Pay Later</b></h5>
         </div>
         <div className="colour-ops">
             <h3>COLOUR OPTIONS</h3>
