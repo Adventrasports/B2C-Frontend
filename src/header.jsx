@@ -6,7 +6,9 @@ function header() {
 return (
 <div className="header">
     <div className="header-left">
-        <div className="symbol"><i class='bx bx-menu'></i></div>
+        <div className="symbol">
+            <i class='bx bx-menu'></i>
+        </div>
         <div className="sportname">
             <p>ALL </p>
             <p>SPORTS</p>

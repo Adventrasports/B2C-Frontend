@@ -1,0 +1,92 @@
+.product {
+    height: 500px;
+  
+    width: 80%;
+}
+.productfivdev {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.filterimg1 {
+    height: 300px;
+    width: 250px;
+    margin-left: -35px;
+}
+.filterimg2 {
+    height: 50px;
+    width: 50px;
+    border: 1px solid blue;
+}
+.productfouedev {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+   
+}
+
+.producttwo { 
+    align-items: end;
+    justify-content: center;
+    height: 520px;
+    width: 250px;
+    margin-top: 0px;
+    line-height: 10px;
+    padding: 5px;
+}
+.shoesproduct1 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.shoesproduct2 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(246, 244, 244);
+    margin-top: 5px;
+    width: 230px;
+   
+    
+}
+.cart-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid grey;
+    height: 40px;
+    margin-left: -2px;
+    margin-right: 8px;
+    color: rgb(45, 45, 45);
+    font-weight: 500;
+}
+.productthree {
+    align-items: end;
+    justify-content: center;
+    height: 520px;
+    width: 250px;
+    margin-top: 0px;
+    line-height: 10px;
+    padding: 5px;
+}
+.productfour {
+    align-items: end;
+    justify-content: center;
+    height: 520px;
+    width: 250px;
+    margin-top: 0px;
+    line-height: 10px;
+    padding: 5px;
+}
+.productfive{
+    align-items: end;
+    justify-content: center;
+    height: 520px;
+    width: 250px;
+    margin-top: 0px;
+    line-height: 10px;
+    padding: 5px;
+}

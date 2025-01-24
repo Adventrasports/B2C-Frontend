@@ -1,0 +1,53 @@
+.Topblock {
+    background-color: aqua;
+    height: 230px;
+    width: 100%;
+    margin-top: 12px;
+    background-image: url("filterphotos/Top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+.fourbtn {
+    display: flex;
+    gap: 1rem;
+    margin-left: 60px;
+    
+}
+.fourbtn {
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 10px;
+    color: whitesmoke;
+    
+    
+}
+.underlin {
+    text-decoration: underline;
+    margin-top: 5px;
+    background-color:white;
+    height: 1px;
+    color: white;
+    width: 500px;
+    margin-left: 30px;
+
+}
+.toppara {
+    padding-bottom: 10px;
+    margin-left: 50px;
+    width: 91%;
+    font-family: 'Gill Sans MT', 'Calibri', sans-serif;
+   
+   
+    
+}
+
+.toppara h2 {
+    margin-top: 70px;
+    color: white;
+}
+.toppara h3 {
+    font-weight: 200;
+}
