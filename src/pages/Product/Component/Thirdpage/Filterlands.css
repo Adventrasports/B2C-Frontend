@@ -1,0 +1,40 @@
+.filterland {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    padding: 20px;
+    font-family: "calibri";
+}
+
+.landone {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10rem;
+    font-size: 18px;
+    font-family: "calibri";
+
+}
+.filters {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
+}
+.syblfilter i {
+    font-size: 28px;
+    padding-top: 3px;
+}
+.dropfilter {
+    display: flex;
+    gap: 1rem;
+    font-size: 16px;
+}
+
+.landtwo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}

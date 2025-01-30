@@ -1,12 +1,13 @@
 import React from "react";
-import './Filterproduct.css';
+import './Filterproductsec.css';
 import img1 from './Shoesphotos/productimg1.png';
 import img2 from './Shoesphotos/productimg2.png';
 import img3 from './Shoesphotos/productimg3.png';
 import img4 from './Shoesphotos/productimg4.png';
 import img5 from './Shoesphotos/productimg5.png';
 
-function filterproduct() {
+
+function filterproductsec() {
     return(
         <>
             <div className="product">
@@ -110,4 +111,4 @@ function filterproduct() {
     )
 }
 
-export default filterproduct
+export default filterproductsec
