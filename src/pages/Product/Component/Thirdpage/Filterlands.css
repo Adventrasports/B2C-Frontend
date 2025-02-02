@@ -2,9 +2,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 40px;
+    height: 20px;
     padding: 20px;
     font-family: "calibri";
+    border-bottom: 2px solid rgb(195, 195, 195);
 }
 
 .landone {
@@ -37,4 +38,45 @@
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
+}
+
+.droplin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.typshoelin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dropsymbl i {
+    font-size: 25px;
+}
+.typesymbl i {
+    font-size: 25px;
+}
+.sortby {
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.2rem;
+}
+.sortsymbl i {
+    font-size: 20px;
+}
+.endbox {
+    display: flex;
+    gap: 0.2rem;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    height: 38px;
+    width: 140px;
+}
+.relaventsymbl i {
+    font-size: 25px;
 }

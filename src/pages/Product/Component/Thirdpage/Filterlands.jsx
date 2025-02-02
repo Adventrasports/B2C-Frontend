@@ -17,24 +17,39 @@ function filterlands() {
                 </div>
                 <div className="dropfilter">
                   <div className="droplin">
-                     <b>DROP</b>
-                     <i class='bx bx-chevron-down'></i>
+                    <div className="droplin">
+                      <b>DROP</b>
+                    </div>
+                    <div className="dropsymbl">
+                      <i class='bx bx-chevron-down'></i>
+                    </div>
                   </div>
                   <div className="typshoelin">
-                    <b>TYPE OF SHOES</b>
-                    <i class='bx bx-chevron-down'></i>
+                    <div className="typeshoe">
+                       <b>TYPE OF SHOES</b>
+                    </div>
+                    <div className="typesymbl">
+                       <i class='bx bx-chevron-down'></i>
+                    </div>
                   </div>
                 </div>
-                
             </div>
             <div className="landtwo">
                 <div className="sortby">
-                <i class='bx bx-transfer-alt'></i>
-                  <b>SORT BY</b>
+                  <div className="sortsymbl">
+                    <i class='bx bx-transfer-alt'></i>
+                  </div>
+                  <div className="sortlin">
+                    <b>SORT BY</b>
+                  </div>
                 </div>
                 <div className="endbox">
-                  <b>Most Relevant</b>
-                  <i class='bx bx-chevron-down'></i>
+                  <div className="relevent">
+                    <b>Most Relevant</b>
+                  </div>
+                  <div className="relaventsymbl">
+                    <i class='bx bx-chevron-down'></i>
+                  </div>
                 </div>
             </div>
             

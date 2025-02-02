@@ -100,9 +100,6 @@ function filterproductsec() {
                                      <h4>ADD TO CART</h4>
                                  </div>
                             </div>
-                           
-                             
-                             
                      </div>
              
                  </div>

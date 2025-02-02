@@ -8,9 +8,10 @@
 .producthedlin {
     display: flex;
     align-items: center;
-    height: 50px;
-    font-size: 18px;
+    height: 30px;
+    font-size: 15px;
     margin-left: 5px;
+
 }
 
 
